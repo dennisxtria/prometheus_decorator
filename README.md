@@ -9,7 +9,7 @@ Add `:prometheus_decorator` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:prometheus_decorator, github: "StoiximanServices/prometheus_decorator"}
+    {:prometheus_decorator, github: "dennisxtria/prometheus_decorator"}
   ]
 end
 ```
